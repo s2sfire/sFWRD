@@ -1,7 +1,7 @@
 # sFWRD: a Standardized Fire Weather Research Database
 
-![logos](https://github.com/user-attachments/assets/a4589c3d-26f2-4384-903d-5b6bfc77e744)
-![code_screenshots](https://github.com/user-attachments/assets/2e66457e-a7c7-458f-8c71-1132203ecf33)
+![logos](/Data_Documentation/README_Images/logos.png?raw=True)
+![code_screenshots](/Data_Documentation/README_Images/code_screenshots.png?raw=True)
 
 The Standardized Fire Weather Research Database (sFWRD) project intends to reduce barriers for fire weather research across all technical skill levels. 
 
@@ -20,13 +20,10 @@ This project was funded by NOAA WPO Grant #NA23OAR4590383. The sFWRD data and co
 
 # Core Features: 
 
-![data_flow](https://github.com/user-attachments/assets/8e8f7c69-78e0-4865-8d4c-492815d5b406)
-
-![variable_metadata](https://github.com/user-attachments/assets/94bf8137-4d86-4b1a-8162-29e81dff74e8)
-
-![spatial_resolution](https://github.com/user-attachments/assets/859227e8-96f2-4c11-b50f-9767067b4789)
-
-![example_maps](https://github.com/user-attachments/assets/15434519-2107-4042-bf43-277c72ce94db)
+![data_flow](/Data_Documentation/README_Images/data_flow.png?raw=True)
+![variable_metadata](/Data_Documentation/README_Images/variable_metadata.png?raw=True)
+![spatial_resolution](/Data_Documentation/README_Images/spatial_resolution.png?raw=True)
+![example_maps](/Data_Documentation/README_Images/example_maps.png?raw=True)
 
 
 # Documentation:
