@@ -1,0 +1,7 @@
+gridtype = lonlat
+xsize = 5000   # Number of grid points in the x-direction (calculated as 720 * 0.25 / 0.036)
+ysize = 2368   # Number of grid points in the y-direction (calculated as 341 * 0.25 / 0.036)
+xfirst = 180   # Starting longitude
+xinc = 0.036   # Increment in longitude (4km ~ 0.036 degrees)
+yfirst = 85    # Starting latitude
+yinc = -0.036  # Increment in latitude (4km ~ 0.036 degrees)
